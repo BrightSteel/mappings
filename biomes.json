@@ -1,4 +1,28 @@
 {
+  "gardens:coniferous_forest": {
+    "bedrock_id": 18
+  },
+  "gardens:ebony_forest": {
+    "bedrock_id": 17
+  },
+  "gardens:eucalyptus_forest": {
+    "bedrock_id": 22
+  },
+  "gardens:jacaranda_grove": {
+    "bedrock_id": 20
+  },
+  "gardens:maple_forest": {
+    "bedrock_id": 28
+  },
+  "gardens:palm_beach": {
+    "bedrock_id": 15
+  },
+  "gardens:redwood_taiga": {
+    "bedrock_id": 33
+  },
+  "gardens:wisteria_grove": {
+    "bedrock_id": 19
+  },
   "minecraft:badlands": {
     "bedrock_id": 37
   },
